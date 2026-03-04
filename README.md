@@ -24,14 +24,13 @@ Learn IDE-based Copilot features through hands-on exercises. Perfect for develop
 1. Project Setup with Codespaces
 2. Code Completion
 3. Copilot Chat
-4. Copilot Edit
-5. Agent Mode
-6. End-to-End App Development
-7. Plan Mode
-8. Add Functionality
-9. Add Unit Tests
-10. Add Documentation
-11. Custom Agents (Optional)
+4. Agent Mode
+5. End-to-End App Development
+6. Plan Mode
+7. Add Functionality
+8. Add Unit Tests
+9. Add Documentation
+10. Custom Agents (Optional)
 
 ### Path 2: Copilot Pro Features
 
