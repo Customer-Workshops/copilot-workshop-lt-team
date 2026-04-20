@@ -1,6 +1,10 @@
 # GitHub Copilot Workshop
 
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-brightgreen?logo=github)](https://customer-workshops.github.io/copilot-workshop-lt-team/)
+
 Master AI-powered coding with GitHub Copilot through hands-on exercises and real-world examples.
+
+> **✨ Live Workshop:** Access the workshop directly at [https://customer-workshops.github.io/copilot-workshop-lt-team/](https://customer-workshops.github.io/copilot-workshop-lt-team/) - no setup required!
 
 ## Overview
 
@@ -53,20 +57,24 @@ Explore advanced Copilot features for professional development workflows.
 
 ## Getting Started
 
-### Option 1: View Online
+### Option 1: View Online (Recommended)
 
-Open `index.html` in your browser to start the workshop.
+Access the workshop directly via GitHub Pages:
+
+**🌐 [https://customer-workshops.github.io/copilot-workshop-lt-team/](https://customer-workshops.github.io/copilot-workshop-lt-team/)**
+
+No installation required - just click and start learning!
 
 ### Option 2: Local Development
 
 1. Clone this repository:
    ```bash
-   git clone <REPOSITORY_URL>
+   git clone https://github.com/Customer-Workshops/copilot-workshop-lt-team.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd copilot-workshop
+   cd copilot-workshop-lt-team
    ```
 
 3. Open `index.html` in your browser or use a local server:
